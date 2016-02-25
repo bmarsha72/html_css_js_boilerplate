@@ -7,7 +7,7 @@ starting place for any front-end project
 * CSS
 * JavaScript
 
-HTML was used in the skeleton.html boilerplate page to be used as a jumping-off point for new front-end projects.
+HTML was used in the skeleton.html boilerplate page to be used as a jumping-off point for new front-end projects.  JavaScript was used to add interactive ability to the page, while CSS will dress the html in pretty clothes.
 
 My biggest achievement is getting the structure set and getting the git repo set up correctly so I can fork it later.
 
